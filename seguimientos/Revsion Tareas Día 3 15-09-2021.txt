@@ -1,0 +1,10 @@
+
+
+- Jhon Bejarano == Cargar en el Drive el Modelo Conceptual Ajustado (Jueves 16)
+- Yhon Villarreal == Actualizar el Documento del Planteamiento del Problmea con (Historias de Ususario y Requerimiento Funcional como Administrador) (Jueves 16)
+- Juan Carvajal == Crear los requerimientos no funcionales e incluirlos en el Documento del Planteamiento del Problema (Jueves 16)
+- Tatiana Rengifo == Consolidar Documento Planteamiento del Problmea para cargar en la Plataforma según la fecha indicada por el formador
+- Edwin Villamil == Consolidar las reuniones internas de seguimiento para la tutoria que se debe cargar en la plataforma el Sábado (Viernes 17)
+
+
+
